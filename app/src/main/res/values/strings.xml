@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">ComfortShop</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_one">Home</string>
+    <string name="item_two">Offers</string>
+    <string name="item_three">Profile</string>
+    <string name="item_four">MyStores</string>
+    <string name="item_five">Nearby</string>
+    <string-array name="storesNames">
+        <item>Ganesh Jewellers</item>
+        <item>Arul Mart</item>
+        <item>JP Stores</item>
+        <item>Green Stores</item>
+        <item>Brown Line</item>
+        <item>Purple Stores</item>
+        <item>Pink Shop</item>
+        <item>Yellow Line</item>
+        <item>Ganesh Jewellers</item>
+        <item>Arul Mart</item>
+        <item>JP Stores</item>
+        <item>Green Stores</item>
+        <item>Brown Line</item>
+        <item>Purple Stores</item>
+        <item>Pink Shop</item>
+        <item>Yellow Line</item>
+        <item>Ganesh Jewellers</item>
+        <item>Arul Mart</item>
+        <item>JP Stores</item>
+        <item>Green Stores</item>
+    </string-array>
+
+    <string-array name="tags">
+        <item>Jewellers</item>
+        <item>Mart</item>
+        <item>Home basics</item>
+        <item>Jewellers</item>
+        <item>Mart</item>
+        <item>Home basics</item>
+        <item>Jewellers</item>
+        <item>Mart</item>
+        <item>Home basics</item>
+        <item>Jewellers</item>
+        <item>Mart</item>
+        <item>Home basics</item>
+        <item>Jewellers</item>
+        <item>Mart</item>
+        <item>Home basics</item>
+        <item>Jewellers</item>
+        <item>Mart</item>
+        <item>Home basics</item>
+        <item>Jewellers</item>
+        <item>Mart</item>
+
+
+    </string-array>
+</resources>
